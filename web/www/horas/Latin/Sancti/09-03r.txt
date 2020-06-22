@@ -1,5 +1,5 @@
 [Rank]
-S. Pii X Papæ Confessoris;;Duplex;;6;;vide C4
+S. Pii X Papæ Confessoris;;Duplex;;6;;ex C4
 
 [Rule]
 ex C4;
